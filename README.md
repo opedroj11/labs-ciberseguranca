@@ -17,3 +17,8 @@ SQL Injection (Login Bypass): Manipulação de queries de banco de dados diretam
 Mitigação Proposta: Implementação rigorosa de Consultas Parametrizadas (Prepared Statements) no back-end para isolar inputs de usuários da lógica SQL.
 
 OBS: Todas as técnicas ofensivas documentadas aqui foram executadas estritamente em ambientes locais (localhost) e aplicações intencionalmente vulneráveis (OWASP Juice Shop) para fins puramente acadêmicos e de auditoria defensiva.
+
+3. Criptografia Simétrica em Python
+Localização: /03-criptografia-python
+- Implementação de algoritmos de proteção de dados (Data at Rest) utilizando o padrão AES via módulo Fernet.
+- Prática de codificação e decodificação de bytes para ofuscação de mensagens confidenciais.
