@@ -35,3 +35,9 @@ OBS: Todas as técnicas ofensivas documentadas aqui foram executadas estritament
 
 - Desenvolvimento de um script em Python para enumeração de diretórios e arquivos ocultos em servidores web.
 - Implementação de filtros de tamanho de resposta (Response Length) para mitigar falsos positivos em servidores com regras "Catch-all".
+
+6. Analisador de Logs e Detecção de Ameaças (SOC)
+   Localização: /06-analisador-de-logs
+
+- Desenvolvimento de script em Python para parseamento e análise de arquivos de log de servidores web.
+- Implementação de lógica de detecção de anomalias (Thresholding) para identificar e alertar sobre ataques de Força Bruta baseados em repetição de falhas de autenticação por endereço IP.
