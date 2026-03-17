@@ -1,0 +1,8 @@
+admin
+login
+painel
+backup
+api
+test
+dashboard
+images

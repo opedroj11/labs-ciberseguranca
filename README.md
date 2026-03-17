@@ -29,3 +29,9 @@ OBS: Todas as técnicas ofensivas documentadas aqui foram executadas estritament
 
 - Implementação de proteção de senhas de usuários utilizando a biblioteca Bcrypt.
 - Aplicação prática de Salts dinâmicos e funções de derivação de chaves para mitigação de ataques de força bruta e Rainbow Tables.
+
+5. Automação de Reconhecimento Web (Fuzzer)
+   Localização: /05-reconhecimento-web
+
+- Desenvolvimento de um script em Python para enumeração de diretórios e arquivos ocultos em servidores web.
+- Implementação de filtros de tamanho de resposta (Response Length) para mitigar falsos positivos em servidores com regras "Catch-all".
