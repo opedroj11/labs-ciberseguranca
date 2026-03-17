@@ -19,7 +19,7 @@ def executar_laboratorio():
             print("Iniciando o ataque...")
             for diretorio in diretorios:
                 diretorio_limpo = diretorio.strip()
-                if not diretorio_limpo: # Pula linhas em branco
+                if not diretorio_limpo:
                     continue
                     
                 url_teste = f"{alvo}{diretorio_limpo}"
